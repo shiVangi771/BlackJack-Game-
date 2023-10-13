@@ -1,0 +1,38 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode';
+    background-image: url("https://t3.ftcdn.net/jpg/03/33/98/58/360_F_333985870_3LjrtHQCcgo9t7xcNrbUI1vUOQt0DuQ6.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-size:50px;
+}
+
+h1 {
+    color:bisque;
+    font-weight:bold;
+}
+
+#message-el {
+    font-style: italic;
+    font-weight:bold;
+    font-size:40px;
+   
+    
+}
+
+button {
+    color:black;
+    width: 150px;
+    background:linear-gradient(blue,greenyellow);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    cursor:pointer;
+    font-size:19px;
+    border-style:ridge;
+}
